@@ -24,7 +24,6 @@ ESEMPIO: sviluppi software e linguaggi di programmazione.
 Queste 4 AREE rappresentano i campi di studio e lavoro che sono *fondamentali* per l'innovazione, sviluppo tecnologico e progresso scientifico.
 
 
-
 # IL PASSATO
 Le origine per cui siamo arrivati a ciò le ritroviamo in: babilonesi, greci, cinesi e romani (E.G. "la macchina di anticitera 250 a.C.").
 
