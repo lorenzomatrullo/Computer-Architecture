@@ -1,3 +1,5 @@
+go watch this https://youtu.be/RrJXLdv1i74?si=uOPiFgpP3Gzd4A1v
+
 1) What is a Binary number?
 Binary: 0 1
 Two digits to represent  quantitive value
