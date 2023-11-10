@@ -1,6 +1,8 @@
 ***L'INFORMATICA è la scienza applicata che si occupa del trattamento dell'informazione mediante procedure automatizzate***
 (oggi presente in tutti i campi ai fini di migliorare l'economicità del mondo attraverso lo sviluppo di applicazioni e software che possano migliorare l'efficienza delle imprese sul mercato).
 
+
+
 # TEORIA + PRATICA
 TEORIA:
 * Fondamenti teorici dell'informazione
@@ -9,6 +11,7 @@ TEORIA:
 PRATICA:
 * Tecnologia abilitante
 * Sistemi informatici
+
 
 
 # ICT (Information and Communications Technology)
@@ -20,8 +23,10 @@ La *programmazione* è fondamentale per lo sviluppo e la gestione di software, s
 ESEMPIO: sviluppi software e linguaggi di programmazione.
 
 
+
 # STEM (Science Technology Engineering and Mathematics)
 Queste 4 AREE rappresentano i campi di studio e lavoro che sono *fondamentali* per l'innovazione, sviluppo tecnologico e progresso scientifico.
+
 
 
 # IL PASSATO
@@ -60,8 +65,11 @@ ELEMENTI ESSENZIALI:
 
 * Accumulatore -> unità di memoria che trattiene informazioni ricevute in input capace di poterle trasferire in output.
 
+
+
 # ENIAC (Electronic Numerical Integrator and Computer)
 É stato il *1° computer elettronico* a larga scala mai costruito, creato durante la 2° Guerra Mondiale e completato nel 1945, al fine di un progetto segreto al fine di calcolare tabelle balistiche utilizzate per scopi militari.
+
 
 
 # BIG DATA
@@ -72,6 +80,7 @@ Obiettivo -> estrarre valori e analizzare grandi quantità di informazioni.
 1) Big Data Management: si occupa di acquisire, estrarre, pulire ed immagazzinare informazioni.
 
 2) Big Data Analytics: sono coloro che si occupano di *Big Data Management*.
+
 
 
 # DATA MINING
@@ -86,6 +95,8 @@ Negli algoloritimi, un problema è classificabile come *CALCOLABILE* esclusivame
 (si "univano" per poter calcolare al meglio quelli che erano gli algoritimi dati)
 
 Da ciò: un problema è NON RISOLVIBILE se attraverso un algoritmo funzionante nella macchina di turing, questa non produce un risultato valido.
+
+
 
 # MACHINE LEARNING
 Elementi fondamentli:
