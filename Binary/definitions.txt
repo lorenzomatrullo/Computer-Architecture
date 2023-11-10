@@ -13,6 +13,8 @@ When you run out of digits:
 1 byte has 256 different configurations which means it can store 256 different numbers.
 MINIMUM VALUE = 0
 MAXIMUM VALUE = 255
+OVERFLOW = a catching situation when we go beyond the MAXIMUM VALUE.
+CARDINALITY = size of the array (array base * array bits = MAXIMUM COMBINATIONS)
 
 
 Each bit till the 8th gets doubled
