@@ -11,7 +11,7 @@ PRATICA:
 * Sistemi informatici
 
 
-# ICT (Information aand Communications Technology)
+# ICT (Information and Communications Technology)
 Si occupa di tecnologie dell'informazione e di comunicazione.
 Ed include un ampia gamma di discipline e competenza, come la *programmazione*.
 
@@ -41,8 +41,27 @@ Le origine per cui siamo arrivati a ciò le ritroviamo in: babilonesi, greci, ci
 (Quando un operatore digitava un carattere, il segnale passava attraverso i rotori che cambiavano la lettera crittografata ad ogni pressione di tasto.)
 Il messaggio risultante poteva poi essere trasmesso e *decrittografato* solo da un'altra macchina **ENIGMA** con le medesime impostazioni.
 
+2) Complessità -> macchina complessa con un gran numero di impostazioni, che rese estramamente difficile decrittografare i messaggi senza conoscere le impostazioni.
 
+3) Lavoro di decrittazione -> Il lavoro di decrittazione era noto come *Ultra* e coinvolgeva molte figure intellettuali. *Alan Turing*, uno di loro, svolse un ruole chiave nella decrittazione di **ENIGMA**
 
+4) Successo della decrittazione -> Gli Alleati riuscono con la decrittazione fornendo così informazioni vincenti sulla pianificazione militare tedesca.
+
+Questi eventi ebbero un *impatto significativo* sulla storia della crittografia e dell'informatica.
+
+--------------------------------------------------------------------------------
+
+Nel 20° secolo nasce l'**ARCHITETTURA di VON NEUMANN** (prima architettura hardware per computer digitali programmabili).
+
+ELEMENTI ESSENZIALI:
+* Unità di controllo -> governa la sequenza per renderla corretta all'output
+
+* Unità aritmetica-logica -> esegue le operazioni di tipo aritimetico e logico
+
+* Accumulatore -> unità di memoria che trattiene informazioni ricevute in input capace di poterle trasferire in output.
+
+# ENIAC (Electronic Numerical Integrator and Computer)
+É stato il *1° computer elettronico* a larga scala mai costruito, creato durante la 2° Guerra Mondiale e completato nel 1945, al fine di un progetto segreto al fine di calcolare tabelle balistiche utilizzate per scopi militari.
 
 
 # BIG DATA
@@ -72,7 +91,7 @@ Da ciò: un problema è NON RISOLVIBILE se attraverso un algoritmo funzionante n
 Elementi fondamentli:
 * ATOMICITÀ = i passaggi devono essere elementari, ossia non scomponibili ulteriormente.
 
-* NON AMBIGUITÀ = i passaggi devono essere interpretati in maniera uguale siaa da un ESSERE UMANO sia da AI.
+* NON AMBIGUITÀ = i passaggi devono essere interpretati in maniera uguale sia da un ESSERE UMANO sia da AI.
 
 * FINITEZZA = l'algoritmo deve essere composto da un NUMERO FINITO di passaggi e richiedere una quantità fissa di dati in input.
 
@@ -81,7 +100,7 @@ Elementi fondamentli:
 * EFFETTIVITÀ = l'esecuzione dell'algoritmo deve portare solo ad un risultato.
 
 Tutti questi elementi sono considerati **DETERMINISTICI**:
--> per ogni istruzione esiste, a parità di dati d'ingresso, un solo passaggio successivo, e il percorso dell'alagoritmo è rappresentabile come y = f(x)
+-> per ogni istruzione esiste, a parità di dati d'ingresso, un solo passaggio successivo, e il percorso dell'algoritmo è rappresentabile come y = f(x)
 
 **NON DETERMINISTICO**:
 -> un algoritmo che anche in presenza degli stessi input può esibire comportamenti differenti ad ogni esecuzione.
