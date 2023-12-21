@@ -7,12 +7,10 @@
 
 <img align="right" width="400" height="193" src="../imgs/transistor.png">
 
-<font size = "1">
-Parts of the transistor<br>
+<font size = "1">Parts of the transistor<br>
 &emsp;&emsp; **Emitter** -> *the transistor's negative lead.*<br>
 &emsp;&emsp; **Base** -> the terminal that activates the transistor.<br>
-&emsp;&emsp; **Collector** -> *the transistor's positive lead.*<br>
-</font>
+&emsp;&emsp; **Collector** -> *the transistor's positive lead.*<br></font>
 
 **NPN** -> *Negative-Positive-Negative*<br>
 **PNP** -> *Positive-Negative-Positive*
