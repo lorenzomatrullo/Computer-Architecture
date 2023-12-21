@@ -55,4 +55,11 @@
 
 *The OR gate outputs "true" if any of its inputs are "true", otherwise it outputs "false".*
 
-![OR-GATES-PNP](../imgs/OR-gates.png)
+![OR-GATES](../imgs/OR-gates.png)
+
+
+### **NAND Gate**:
+
+*NAND is the complementary of AND.*
+
+![NAND-GATES](../imgs/NAND-gates.png)
