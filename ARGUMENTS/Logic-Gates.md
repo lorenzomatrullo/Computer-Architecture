@@ -21,6 +21,7 @@
 <br>
 <br>
 
+
 ### **BUFFER Gates**:
 
 *Strengthens a signal without changing its logic value.<br> 
@@ -31,6 +32,7 @@
 
 <br>
 
+
 ### **NOT Gates**:
 
 **Ā** = *Complementary of A*
@@ -40,9 +42,10 @@
 
 ![NOT-GATES](../imgs/NOT-gates.png)
 
+
 ### **AND Gate**:
 
-*We can get an AND gate using two NPN transistors connected in series in a common collector configuration:*
+*We can get an AND gate using two NPN transistors connected in series in a common collector configuration.*
 
 
 ![AND-GATES](../imgs/AND-gates.png)
