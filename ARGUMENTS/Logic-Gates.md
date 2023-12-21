@@ -16,6 +16,8 @@
 &emsp;&emsp; - **Collector**: *the transistor's positive lead.*</font>
 
 <br>
+<br>
+<br>
 
 ### **Buffer Gates**:
 
