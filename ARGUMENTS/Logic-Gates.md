@@ -8,7 +8,7 @@
 
 **Transistor**: *device that is used to control or regulate the flow of electronic signals.*<br>
 
-<img align="right" width="369" height="162" src="../imgs/transistor.png">
+<img align="right" width="400" height="193" src="../imgs/transistor.png">
 
 <font size = "1">Parts of the transistor:<br>
 &emsp;&emsp; - **Emitter**: *the transistor's negative lead.*<br>
