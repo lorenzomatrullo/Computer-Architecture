@@ -15,6 +15,7 @@
 &emsp;&emsp; - **Base**: the terminal that activates the transistor.<br>
 &emsp;&emsp; - **Collector**: *the transistor's positive lead.*</font>
 
+<br>
 
 ### **Buffer Gates**:
 
