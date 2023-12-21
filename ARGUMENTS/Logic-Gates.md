@@ -12,10 +12,10 @@ Parts of the transistor<br>
 &emsp;&emsp; **Emitter** -> *the transistor's negative lead.*<br>
 &emsp;&emsp; **Base** -> the terminal that activates the transistor.<br>
 &emsp;&emsp; **Collector** -> *the transistor's positive lead.*<br>
+</font>
 
 **NPN** -> *Negative-Positive-Negative*<br>
 **PNP** -> *Positive-Negative-Positive*
-</font>
 
 <br>
 <br>
