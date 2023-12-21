@@ -12,8 +12,8 @@
 &emsp;&emsp; **Base** -> the terminal that activates the transistor.<br>
 &emsp;&emsp; **Collector** -> *the transistor's positive lead.*<br></font>
 
-**NPN** -> *Negative-Positive-Negative*<br>
-**PNP** -> *Positive-Negative-Positive*
+&emsp;&emsp; **NPN** -> *Negative-Positive-Negative*<br>
+&emsp;&emsp; **PNP** -> *Positive-Negative-Positive*
 
 <br>
 <br>
