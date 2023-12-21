@@ -8,7 +8,7 @@
 
 **Transistor**: *device that is used to control or regulate the flow of electronic signals.*<br>
 
-<img align="right" width="300" height="130" src="transistor.png">
+<img align="right" width="300" height="130" src="../imgs/transistor.png">
 
 <font size = "1">Parts of the transistor:<br>
 &emsp;&emsp; - **Emitter**: *the transistor's negative lead.*<br>
@@ -22,7 +22,7 @@
 <font size = "1">(E.G. if it receives a logic 1, it outputs a logic 1, and if receives a logic 0, it outputs a logic 0)*</font>
 
 
-![BUFFER-GATES](buffer-gate.png)
+![BUFFER-GATES](../imgs/buffer-gate.png)
 
 <br>
 
@@ -33,7 +33,7 @@
 *Not gate is also called a negator, because it "negates" the input.<br>
 <font size = "1">(E.G. if it receives a logic 1, it outputs a logic 0, and if it receives a logic 0, it outputs a logic 1)*</font>
 
-![NOT-GATES](Not-Gates.png)
+![NOT-GATES](../imgs/Not-Gates.png)
 
 
 
