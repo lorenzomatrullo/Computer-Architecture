@@ -22,7 +22,7 @@
 <font size = "1">(E.G. if it receives a logic 1, it outputs a logic 1, and if receives a logic 0, it outputs a logic 0)*</font>
 
 
-![BUFFER-GATES](buffer-gates-1.png)
+![BUFFER-GATES](buffer-gate.png)
 
 <br>
 
