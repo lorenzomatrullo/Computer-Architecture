@@ -40,7 +40,7 @@
 
 ![NOT-GATES](../imgs/NOT-gates.png)
 
-### **AND Gate**:
+### **AND Gate**:s
 
 *We can get an AND gate using two NPN transistors connected in series in a common collector configuration:*
 
