@@ -3,6 +3,8 @@
 **0** -> OFF -> False -> 0 Volts<br>
 **1** -> ON -> True -> 5 volts (something over than 0)
 
+<br>
+
 **Transistor**: *device that is used to control or regulate the flow of electronic signals.*<br>
 
 <img align="right" width="400" height="193" src="../imgs/transistor.png">
