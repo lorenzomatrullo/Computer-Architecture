@@ -50,3 +50,9 @@
 
 ![AND-GATES](../imgs/AND-gates.png)
 
+
+### **OR Gate**:
+
+*The OR gate outputs "true" if any of its inputs are "true", otherwise it outputs "false".*
+
+![OR-GATES-PNP](../imgs/OR-gates.png)
