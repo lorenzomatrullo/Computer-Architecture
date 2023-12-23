@@ -1,6 +1,7 @@
 # Logic Gates
 
-**0** -> OFF -> False -> 0 Volts<br>
+**0** -> OFF -> False -> 0 Volts
+<br>
 **1** -> ON -> True -> 5 volts (something over than 0)
 
 <br>
@@ -9,9 +10,12 @@
 
 <img align="right" width="400" height="193" src="../imgs/transistor.png">
 
-<font size = "1">Parts of the transistor<br>
-&emsp;&emsp; **Emitter** -> *the transistor's negative lead.*<br>
-&emsp;&emsp; **Base** -> the terminal that activates the transistor.<br>
+<font size = "1">Parts of the transistor
+<br>
+&emsp;&emsp; **Emitter** -> *the transistor's negative lead.*
+<br>
+&emsp;&emsp; **Base** -> the terminal that activates the transistor.
+<br>
 &emsp;&emsp; **Collector** -> *the transistor's positive lead.*<br></font>
 
 &emsp;&emsp; **NPN** -> *Negative-Positive-Negative*<br>
@@ -20,7 +24,6 @@
 <br>
 <br>
 <br>
-
 
 ### **BUFFER Gates**:
 
@@ -32,12 +35,12 @@
 
 <br>
 
-
 ### **NOT Gates**:
 
 **Ā** = *Complementary of A*
 
-*Not gate is also called a negator, because it "negates" the input.<br>
+*Not gate is also called a negator, because it "negates" the input.
+<br>
 <font size = "1">If it receives a logic 1, it outputs a logic 0, and if it receives a logic 0, it outputs a logic 1*</font>
 
 ![NOT-GATES](../imgs/NOT-gates.png)
@@ -53,7 +56,8 @@
 
 ### **NAND Gate**:
 
-*NAND is the complementary of AND.*<br>
+*NAND is the complementary of AND.*
+<br>
 <font size = "1">*The combination of an AND gate and a NOT gate --> NAND gate*</font>
 
 ![NAND-GATES](../imgs/NAND-gates.png)
@@ -68,7 +72,15 @@
 
 ### **NOR Gate**:
 
-*NOR is the complementary of OR.*<br>
+*NOR is the complementary of OR.*
+<br>
 <font size = "1">*The combination of an OR gate and a NOT gate --> NOR gate*</font>
 
 ![NOR-GATES](../imgs/NOR-gates.png)
+
+<br>
+<ins>**THOUGHTFUL REASONING**</ins>
+<br></br>
+
+AND GATE = multiplication<br>
+OR GATE = addition
