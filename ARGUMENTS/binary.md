@@ -1,5 +1,3 @@
-go watch this https://youtu.be/RrJXLdv1i74?si=uOPiFgpP3Gzd4A1v
-
 ### **What is a Binary number?**
 Represent a quantitive value between <span style = "color:red">0</span> and <span style = "color:red">1</span>
 <br>
