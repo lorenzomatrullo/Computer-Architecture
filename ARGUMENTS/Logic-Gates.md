@@ -71,4 +71,4 @@
 *NOR is the complementary of OR.*<br>
 <font size = "1">*The combination of an OR gate and a NOT gate --> NOR gate*</font>
 
-![Alt text](../imgs/NOR-gates.png)
+![NOR-GATES](../imgs/NOR-gates.png)
