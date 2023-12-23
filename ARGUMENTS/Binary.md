@@ -1,5 +1,5 @@
 ### **What is a Binary number?**
-Represent a quantitive value between <span style = "color:red">0</span> and <span style = "color:red">1</span>
+It represents a quantitive value between <span style = "color:red">0</span> and <span style = "color:red">1</span>
 <br>
 <br>
 
@@ -20,7 +20,7 @@ Represent a quantitive value between <span style = "color:red">0</span> and <spa
 <br>
 **Maximum Value** -> 255
 <br>
-**Overflow** -> *a catching situation when we go beyond the Maxmum Value*
+**Overflow** -> *a catching situation when we go beyond the Maximum Value*
 <br>
 **Cardinality** = *size of the array (base^bits = Maximum Combinations)*
 <br>
