@@ -79,7 +79,7 @@
 ![NOR-GATES](../imgs/NOR-gates.png)
 
 <br>
-<b>- <ins>FUNCTION EXAMPLES</b></ins>
+<b>- <ins>BOOLEAN ALGEBRA</b></ins>
 <br>
 <br>
 
