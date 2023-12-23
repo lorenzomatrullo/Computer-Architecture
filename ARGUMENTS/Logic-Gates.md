@@ -38,7 +38,7 @@
 **Ā** = *Complementary of A*
 
 *Not gate is also called a negator, because it "negates" the input.<br>
-<font size = "1">(E.G. if it receives a logic 1, it outputs a logic 0, and if it receives a logic 0, it outputs a logic 1)*</font>
+<font size = "1">If it receives a logic 1, it outputs a logic 0, and if it receives a logic 0, it outputs a logic 1*</font>
 
 ![NOT-GATES](../imgs/NOT-gates.png)
 
@@ -51,6 +51,14 @@
 ![AND-GATES](../imgs/AND-gates.png)
 
 
+### **NAND Gate**:
+
+*NAND is the complementary of AND.*<br>
+<font size = "1">*The combination of an AND gate and a NOT gate --> NAND gate*</font>
+
+![NAND-GATES](../imgs/NAND-gates.png)
+
+
 ### **OR Gate**:
 
 *The OR gate outputs "true" if any of its inputs are "true", otherwise it outputs "false".*
@@ -58,8 +66,9 @@
 ![OR-GATES](../imgs/OR-gates.png)
 
 
-### **NAND Gate**:
+### **NOR Gate**:
 
-*NAND is the complementary of AND.*
+*NOR is the complementary of OR.*<br>
+<font size = "1">*The combination of an OR gate and a NOT gate --> NOR gate*</font>
 
-![NAND-GATES](../imgs/NAND-gates.png)
+![Alt text](../imgs/NOR-gates.png)
