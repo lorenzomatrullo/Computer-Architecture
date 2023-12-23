@@ -25,7 +25,7 @@
 <br>
 <br>
 
-## **BUFFER Gates**:
+## **BUFFER Gates**
 
 *Strengthens a signal without changing its logic value.<br> 
 <font size = "1">(E.G. if it receives a logic 1, it outputs a logic 1, and if receives a logic 0, it outputs a logic 0)*</font>
@@ -35,7 +35,7 @@
 
 <br>
 
-## **NOT Gates**:
+## **NOT Gates**
 
 **Ā** = *Complementary of A*
 
@@ -46,7 +46,7 @@
 ![NOT-GATES](../imgs/NOT-gates.png)
 
 
-## **AND Gate**:
+## **AND Gate**
 
 *We can get an AND gate using two NPN transistors connected in series in a common collector configuration.*
 
@@ -54,7 +54,7 @@
 ![AND-GATES](../imgs/AND-gates.png)
 
 
-## **NAND Gate**:
+## **NAND Gate**
 
 *NAND is the complementary of AND.*
 <br>
@@ -63,14 +63,14 @@
 ![NAND-GATES](../imgs/NAND-gates.png)
 
 
-## **OR Gate**:
+## **OR Gate**
 
 *The OR gate outputs "true" if any of its inputs are "true", otherwise it outputs "false".*
 
 ![OR-GATES](../imgs/OR-gates.png)
 
 
-## **NOR Gate**:
+## **NOR Gate**
 
 *NOR is the complementary of OR.*
 <br>
