@@ -79,10 +79,20 @@
 ![NOR-GATES](../imgs/NOR-gates.png)
 
 <br>
-<ins>**THOUGHTFUL REASONING**</ins>
+<b>- <ins>FUNCTION EXAMPLES</b></ins>
 <br>
 <br>
 
 **AND GATE** = *multiplication*
 <br>
 **OR GATE** = *addition*
+
+![write-funtion-from-diagrams](../imgs/write_function.png)
+
+
+![draw_diagram_from_function_SOP](../imgs/draw_function_SOP.png)
+<font size = "1">*SOP -> sum of products expression*</font>
+
+
+![draw_diagram_from_function_POS](../imgs/draw_function_POS.png)
+<font size = "1">*POS -> product of sums expression*</font>
