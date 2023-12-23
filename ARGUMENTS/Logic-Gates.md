@@ -80,7 +80,9 @@
 
 <br>
 <ins>**THOUGHTFUL REASONING**</ins>
-<br></br>
+<br>
+<br>
 
-AND GATE = multiplication<br>
-OR GATE = addition
+**AND GATE** = *multiplication*
+<br>
+**OR GATE** = *addition*
