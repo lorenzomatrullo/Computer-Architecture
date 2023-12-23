@@ -1,5 +1,6 @@
-***L'INFORMATICA è la scienza applicata che si occupa del trattamento dell'informazione mediante procedure automatizzate***
-(oggi presente in tutti i campi ai fini di migliorare l'economicità del mondo attraverso lo sviluppo di applicazioni e software che possano migliorare l'efficienza delle imprese sul mercato).
+<font size = "4">***L'INFORMATICA è la scienza applicata che si occupa del trattamento dell'informazione mediante procedure automatizzate***</font>
+<br>
+<font size = "1">(oggi presente in tutti i campi ai fini di migliorare l'economicità del mondo attraverso lo sviluppo di applicazioni e software che possano migliorare l'efficienza delle imprese sul mercato).</font>
 
 
 
@@ -8,11 +9,13 @@ TEORIA:
 * Fondamenti teorici dell'informazione
 * Processi di informazione a livello logico
 
+<br>
+
 PRATICA:
 * Tecnologia abilitante
 * Sistemi informatici
 
-
+<br>
 
 # ICT (Information and Communications Technology)
 Si occupa di tecnologie dell'informazione e di comunicazione.
@@ -22,12 +25,12 @@ La *programmazione* è fondamentale per lo sviluppo e la gestione di software, s
 
 ESEMPIO: sviluppi software e linguaggi di programmazione.
 
-
+<br>
 
 # STEM (Science Technology Engineering and Mathematics)
 Queste 4 AREE rappresentano i campi di studio e lavoro che sono *fondamentali* per l'innovazione, sviluppo tecnologico e progresso scientifico.
 
-
+<br>
 
 # IL PASSATO
 Le origine per cui siamo arrivati a ciò le ritroviamo in: babilonesi, greci, cinesi e romani (E.G. "la macchina di anticitera 250 a.C.").
@@ -65,12 +68,12 @@ ELEMENTI ESSENZIALI:
 
 * Accumulatore -> unità di memoria che trattiene informazioni ricevute in input capace di poterle trasferire in output.
 
-
+<br>
 
 # ENIAC (Electronic Numerical Integrator and Computer)
 É stato il *1° computer elettronico* a larga scala mai costruito, creato durante la 2° Guerra Mondiale e completato nel 1945, al fine di un progetto segreto al fine di calcolare tabelle balistiche utilizzate per scopi militari.
 
-
+<br>
 
 # BIG DATA
 *Dati che superano i limiti degli strumenti database tradizionali*
@@ -81,7 +84,7 @@ Obiettivo -> estrarre valori e analizzare grandi quantità di informazioni.
 
 2) Big Data Analytics: sono coloro che si occupano di *Big Data Management*.
 
-
+<br>
 
 # DATA MINING
 *Insieme di teniche e metodologie che hanno per oggetto l'estrazione di un'informazione a partire da grandi quantità di dati*
@@ -96,10 +99,10 @@ Negli algoloritimi, un problema è classificabile come *CALCOLABILE* esclusivame
 
 Da ciò: un problema è NON RISOLVIBILE se attraverso un algoritmo funzionante nella macchina di turing, questa non produce un risultato valido.
 
-
+<br>
 
 # MACHINE LEARNING
-Elementi fondamentli:
+Elementi fondamentali:
 * ATOMICITÀ = i passaggi devono essere elementari, ossia non scomponibili ulteriormente.
 
 * NON AMBIGUITÀ = i passaggi devono essere interpretati in maniera uguale sia da un ESSERE UMANO sia da AI.
@@ -113,5 +116,4 @@ Elementi fondamentli:
 Tutti questi elementi sono considerati **DETERMINISTICI**:
 -> per ogni istruzione esiste, a parità di dati d'ingresso, un solo passaggio successivo, e il percorso dell'algoritmo è rappresentabile come y = f(x)
 
-**NON DETERMINISTICO**:
--> un algoritmo che anche in presenza degli stessi input può esibire comportamenti differenti ad ogni esecuzione.
+**NON DETERMINISTICO** -> *un algoritmo che anche in presenza degli stessi input può esibire comportamenti differenti ad ogni esecuzione.*
