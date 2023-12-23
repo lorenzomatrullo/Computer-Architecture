@@ -96,3 +96,20 @@
 
 ![draw_diagram_from_function_POS](../imgs/draw_function_POS.png)
 <font size = "1">*POS -> product of sums expression*</font>
+
+---
+
+**Minterms** -> standard product terms
+<br>
+**Maxterms** -> standard sum terms
+<br>
+**Variables** -> which are the different variable used
+<br>
+**Literals** -> total number of literals
+<br>
+<font size = "1">*They are taken when one expression has all variables in it.*</font>
+
+
+![describe-expression-SOP](../imgs/describe-expression-SOP.png)
+
+![describe-expression-POS](../imgs/describe-expression-POS.png)
