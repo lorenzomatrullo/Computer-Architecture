@@ -1,6 +1,6 @@
 # **Teorema di De Morgan**
 
-Il teorema di De Morgan è un principio fondamentale nell'algebra di Boole che permette di semplificare le espressioni logiche.
+*Il **teorema di De Morgan** è un principio fondamentale nell'algebra di Boole che permette di semplificare le espressioni logiche*.
 
 <br>
 
