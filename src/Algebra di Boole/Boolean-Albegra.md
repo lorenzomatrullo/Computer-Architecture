@@ -40,3 +40,14 @@
 <br>
 
 ![describe-expression-POS](../../imgs/describe-expression-POS.png)
+
+<br>
+
+## Minimizzazione
+È un processo attuo a semplificare le espressioni booleane riducendo il numero di porte logiche necessarie per implementarle.
+<br>
+L'obiettivo è quello di ottenere una forma più compatta ed efficiente dell'espressione, mantenendo al contempo la stessa funzionalità logica.
+
+<br>
+
+**Metodi di Minimizzazione -->** Tabella di Karnaugh e Metodo di Quine-McCluskey.
